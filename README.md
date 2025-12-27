@@ -1,5 +1,5 @@
 
-# Hi. I'm Jay – Future SOC Team Leader!
+# Iya, I'm Jay – Future SOC Team Leader!
 
 ## 👋 About Me
 Aspiring SOC Analyst with a strong foundation in cybersecurity and networking, backed by hands-on experience in monitoring, detecting, and responding to security incidents. Passionate about protecting systems and data through proactive defence strategies and continuous learning.
