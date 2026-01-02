@@ -56,8 +56,8 @@ This portfolio showcases practical SOC-relevant projects demonstrating my abilit
 
 ### **Evidence:** 
 
-![Wazuh Dashboard](images/wazuh-dashboard.png)  
-*(Add more screenshots as needed)*  
+https://github.com/jaykellscyber/Wazuh-SIEM-Deployment
+  
 
 
 
