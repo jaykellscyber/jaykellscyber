@@ -56,7 +56,7 @@ This portfolio showcases practical SOC-relevant projects demonstrating my abilit
 
 ### **Evidence:** 
 
-[Wazuh-SIEM-Deployment](https://github.com/jaykellscyber/Wazuh-SIEM-Deployment)
+[Wazuh SIEM Deployment](https://github.com/jaykellscyber/Wazuh-SIEM-Deployment)
   
 
 
