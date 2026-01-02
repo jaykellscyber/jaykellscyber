@@ -56,7 +56,7 @@ This portfolio showcases practical SOC-relevant projects demonstrating my abilit
 
 ### **Evidence:** 
 
-https://github.com/jaykellscyber/Wazuh-SIEM-Deployment
+[Wazuh-SIEM-Deployment](https://github.com/jaykellscyber/Wazuh-SIEM-Deployment)
   
 
 
@@ -84,7 +84,7 @@ Captured and analysed network traffic to identify normal vs suspicious behaviour
 
 ### **Evidence**
 
-Wireshark network packet cature
+[Wireshark Network Packet Cature](https://github.com/jaykellscyber/Network-Traffic-Analysis)
 
 
 
